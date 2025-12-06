@@ -2,6 +2,16 @@
 
 Automatically organize your Downloads folder by file type and date. Never manually sort files again!
 
+# Kiro Week 2 — Lazy Automation metadata
+
+Author: Subhrajit Kar  
+Challenge: Kiro Week 2 - Lazy Automation  
+Project: lazy-automation-kiro
+
+Description:
+A Python tool to automatically organize a target folder (Downloads recommended) into categorized subfolders (PDFs, Images, Videos, Docs, Archives, Audio, Others). Includes dry-run, duplicate detection (by SHA-1), and safe-renaming to avoid overwrites.
+
+
 ## 🎯 Problem
 
 Downloads folders get messy fast. Images, PDFs, videos, and archives pile up, making it hard to find what you need. Manual organization is tedious and time-consuming.
